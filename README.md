@@ -8,7 +8,6 @@
  
 * 📬 Maila mig! [anko2300@outlook.com](mailto:anko2300@outlook.com)
 
-Jag har ett stort intresse för kreativitet och problemlösning. Med webbutveckling har jag fått chansen att kombinera design med en nyfunnen teknisk värld som inspirerar mig. Jag ser fram emot att fortsätta lära mig och utvecklas inom området. 
 
 ### 👾 Språk
 * Javascript
